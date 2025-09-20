@@ -1,3 +1,5 @@
+-- Script should be in Replicated Storage!
+
 local HttpsService = game.HttpService
 local MarketPlaceService = game:GetService('MarketplaceService')
 local Players = game:GetService('Players')
